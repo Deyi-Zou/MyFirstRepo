@@ -9,7 +9,7 @@
 int main()
 {
     std::cout << "Hello World!\n";
-    printf("HelloWorld!");
+    printf("Let make a Conflict!");
     printf("Hello from MacOS!");
 }
 
